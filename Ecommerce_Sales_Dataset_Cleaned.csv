@@ -1,0 +1,501 @@
+Customer_ID,Name,Age,Gender,City,State,Country,Loyalty_Level2
+CUST1000,Sheena Bonilla,55,Male,Donaldton,North Carolina,USA,Unknown
+CUST1001,Eugene Nelson,26,Female,Phillipsmouth,North Dakota,USA,Platinum
+CUST1002,Dr. Benjamin Price,29,Female,Kylebury,Alabama,USA,Platinum
+CUST1003,Jeremy Harris,59,Female,Thomastown,Ohio,USA,Bronze
+CUST1004,Caroline Collins,64,Female,Nicholasshire,California,USA,Silver
+CUST1005,Christine Vaughn,24,Male,East Amandamouth,Oregon,USA,Bronze
+CUST1006,Amber Jackson,29,Female,Deborahborough,South Dakota,USA,Platinum
+CUST1007,Daniel Boyd,29,Female,West Pamelafurt,West Virginia,USA,Bronze
+CUST1008,Melissa Howard,53,Female,Maynardton,New Hampshire,USA,Gold
+CUST1009,Ms. Maria Leach,64,Male,Melissashire,Pennsylvania,USA,Platinum
+CUST1010,Dominic Page,53,Male,Port Michaelburgh,Pennsylvania,USA,Bronze
+CUST1011,Brian Lopez,28,Female,East Krista,New York,USA,Gold
+CUST1012,Kenneth Lambert,55,Female,North Kathryn,Kansas,USA,Platinum
+CUST1013,Nathan Hernandez,32,Female,New Becky,Montana,USA,Silver
+CUST1014,Ashley Cohen,53,Female,Lake Kristamouth,Nebraska,USA,Silver
+CUST1015,Laura Alvarez,49,Female,Lawsonhaven,Washington,USA,Platinum
+CUST1016,John Scott,24,Female,South Christopher,Pennsylvania,USA,Bronze
+CUST1017,Adam Cruz,60,Female,Brandonville,Georgia,USA,Platinum
+CUST1018,Rhonda Moss,43,Male,South William,Kansas,USA,Unknown
+CUST1019,Michael Torres,46,Female,Gonzalezfort,New Jersey,USA,Platinum
+CUST1020,Bridget Allen,59,Male,Lake Shaneburgh,Delaware,USA,Silver
+CUST1021,Jeff Martinez,36,Female,Smithburgh,Oklahoma,USA,Gold
+CUST1022,Paul Fox,33,Female,Michaelton,Hawaii,USA,Silver
+CUST1023,Jonathan Steele,52,Female,Molinabury,Oregon,USA,Silver
+CUST1024,Heather Collins,40,Male,Rogerschester,Idaho,USA,Platinum
+CUST1025,Diana Taylor,59,Female,Vasqueztown,California,USA,Bronze
+CUST1026,Amber Carlson,18,Female,East Michellemouth,Missouri,USA,Gold
+CUST1027,Leslie Johnson,31,Male,Mollyshire,Utah,USA,Unknown
+CUST1028,Joshua Ryan,27,Female,New David,New Jersey,USA,Platinum
+CUST1029,David Arnold,54,Female,East Jennifer,California,USA,Silver
+CUST1030,Jessica Acevedo,64,Female,Amybury,Pennsylvania,USA,Bronze
+CUST1031,Sarah Vance,41,Male,Johnsonville,Oregon,USA,Silver
+CUST1032,Mike Jennings,48,Female,Fostermouth,Arizona,USA,Gold
+CUST1033,Robert Jones Dds,25,Male,Tristanton,Oklahoma,USA,Platinum
+CUST1034,Christopher Olson,27,Female,West Richard,Maryland,USA,Platinum
+CUST1035,Rachel Myers,52,Male,Robertberg,North Dakota,USA,Silver
+CUST1036,Thomas Phillips,20,Female,Luisfurt,Georgia,USA,Gold
+CUST1037,Christopher Carter,27,Female,Brendastad,South Dakota,USA,Unknown
+CUST1038,Deanna Simpson,35,Female,Brownport,North Dakota,USA,Bronze
+CUST1039,Tonya Reynolds,55,Female,Darleneton,Michigan,USA,Gold
+CUST1040,Eric Vega,50,Male,Williamsonland,Kansas,USA,Gold
+CUST1041,James Gibbs,21,Male,Mooneyshire,Alaska,USA,Platinum
+CUST1042,William Martin,19,Male,Ryanburgh,Connecticut,USA,Platinum
+CUST1043,Joseph Snow,45,Male,South Michaelfort,Vermont,USA,Gold
+CUST1044,Denise Williams,34,Male,Christianstad,Hawaii,USA,Bronze
+CUST1045,Jordan Jackson Dds,54,Male,North Johnview,Arizona,USA,Gold
+CUST1046,Michelle Garcia Dds,55,Female,Perezbury,Ohio,USA,Platinum
+CUST1047,Gina Knight,54,Female,Lake Roberthaven,Nevada,USA,Silver
+CUST1048,April Mullins,54,Male,Dawsonbury,North Carolina,USA,Platinum
+CUST1049,Timothy Weaver,45,Female,New Amy,Ohio,USA,Gold
+CUST1050,Matthew Hunter Jr.,61,Female,Gregoryview,Illinois,USA,Gold
+CUST1051,Sarah Rodgers,23,Female,New Julia,West Virginia,USA,Gold
+CUST1052,Debra Liu,55,Male,South Timtown,Minnesota,USA,Bronze
+CUST1053,Sharon Brown,37,Female,East Andrea,Michigan,USA,Gold
+CUST1054,Katherine Dorsey,24,Male,Christopherland,Oklahoma,USA,Platinum
+CUST1055,Wayne Mcpherson,56,Female,Edwardsfort,Minnesota,USA,Bronze
+CUST1056,Christopher Sutton,49,Female,Deborahberg,Pennsylvania,USA,Gold
+CUST1057,Jay Patel,43,Female,Morrisbury,Rhode Island,USA,Platinum
+CUST1058,Cheryl Copeland,51,Male,Snowmouth,Maryland,USA,Platinum
+CUST1059,Alyssa Vargas,53,Male,New Kathrynland,Montana,USA,Platinum
+CUST1060,Dr. David Smith,22,Female,Schmidtchester,Alaska,USA,Silver
+CUST1061,Kristin Stein,23,Male,Jennifermouth,Missouri,USA,Silver
+CUST1062,James Bean,50,Male,Stevensonton,New Mexico,USA,Bronze
+CUST1063,Michael Daniel,51,Male,New Jesse,Tennessee,USA,Platinum
+CUST1064,Mr. Mason Butler,33,Male,Port Kathrynhaven,Arizona,USA,Gold
+CUST1065,Michael Thomas,21,Female,Woodmouth,Nevada,USA,Silver
+CUST1066,Cody Diaz,27,Female,South Aaronside,New Hampshire,USA,Silver
+CUST1067,Amber Mcclain,58,Male,Brendaburgh,Florida,USA,Silver
+CUST1068,Mr. Mark Beasley,24,Female,West Johnchester,Indiana,USA,Silver
+CUST1069,Roy Cole,24,Female,North Cynthiatown,New Jersey,USA,Platinum
+CUST1070,Eric Singh,29,Female,Port Lisa,New Mexico,USA,Gold
+CUST1071,Andrea Perez,61,Female,South Shaun,New Mexico,USA,Gold
+CUST1072,Tonya Burch,39,Female,Olsonhaven,Iowa,USA,Gold
+CUST1073,Christopher Brown,56,Female,Sandrastad,West Virginia,USA,Silver
+CUST1074,John Mayer,58,Male,Longport,Colorado,USA,Bronze
+CUST1075,Rhonda Morales,61,Female,Lake Barryfurt,California,USA,Gold
+CUST1076,Nathan Campbell,37,Male,Rodrigueztown,Oklahoma,USA,Gold
+CUST1077,Katherine Young,29,Male,North Valeriemouth,Vermont,USA,Gold
+CUST1078,Cody Blake,21,Male,North Scottport,Virginia,USA,Gold
+CUST1079,Molly Gardner,22,Female,Nicoleborough,Arkansas,USA,Platinum
+CUST1080,Jennifer Garcia,61,Female,New Sean,New Mexico,USA,Bronze
+CUST1081,Krystal Ford,34,Female,South David,Arizona,USA,Platinum
+CUST1082,George Rosario,53,Male,Leburgh,Florida,USA,Bronze
+CUST1083,Thomas Robinson,48,Female,Nicholastown,Georgia,USA,Bronze
+CUST1084,Christy Hoffman,26,Female,Garyberg,Indiana,USA,Platinum
+CUST1085,Richard Delgado,36,Male,West Theodorechester,Pennsylvania,USA,Silver
+CUST1086,Tammy Miller Md,19,Female,Austinfurt,Mississippi,USA,Gold
+CUST1087,Melissa Duffy Md,58,Female,East Jenna,South Carolina,USA,Bronze
+CUST1088,Timothy Wright,58,Male,Ashleystad,Arkansas,USA,Silver
+CUST1089,Jamie Yoder,43,Male,New Gabrielleville,Wisconsin,USA,Platinum
+CUST1090,Oscar Moon,58,Female,West Cody,Louisiana,USA,Platinum
+CUST1091,Donna Gregory,29,Female,South Amandahaven,Arizona,USA,Silver
+CUST1092,Robert Jackson,44,Female,Lake Brandy,Tennessee,USA,Platinum
+CUST1093,Christy Vasquez,28,Female,Port Travisstad,South Carolina,USA,Gold
+CUST1094,David Patterson,43,Female,New Amyport,Nevada,USA,Gold
+CUST1095,Amy Fowler,62,Female,West Bobbyshire,New York,USA,Platinum
+CUST1096,Samantha Walker,30,Female,Timothyburgh,Louisiana,USA,Platinum
+CUST1097,David Cobb,36,Male,Lake Thomas,South Dakota,USA,Silver
+CUST1098,Brittney Morgan,24,Male,Lake Kaylahaven,Alaska,USA,Gold
+CUST1099,Sheila Wilson,35,Male,South Dustin,Tennessee,USA,Silver
+CUST1100,Diane Watson,53,Female,North Codyport,Texas,USA,Platinum
+CUST1101,Colleen Maynard,29,Male,Singletonmouth,Utah,USA,Gold
+CUST1102,Sarah Schneider,34,Female,Port Joshuachester,Pennsylvania,USA,Bronze
+CUST1103,Steven Stein,21,Male,West Lauren,Connecticut,USA,Bronze
+CUST1104,Christopher Lester,64,Male,South Jenniferville,Georgia,USA,Silver
+CUST1105,Lance Baker,50,Female,Port Victoria,Florida,USA,Gold
+CUST1106,Howard Summers,53,Female,East Linda,Rhode Island,USA,Bronze
+CUST1107,Erica Carney,62,Female,North Justin,North Dakota,USA,Platinum
+CUST1108,Travis Holland,38,Male,Webstermouth,New Hampshire,USA,Bronze
+CUST1109,Amy Walker,27,Male,Smithland,West Virginia,USA,Silver
+CUST1110,Ashley Griffin,40,Female,New Dawnton,Maryland,USA,Gold
+CUST1111,Julie Farmer,18,Female,Rodriguezmouth,Arizona,USA,Platinum
+CUST1112,David Cole,27,Female,Lake Michael,Michigan,USA,Silver
+CUST1113,Edward Hall,51,Male,New William,New Mexico,USA,Gold
+CUST1114,Ryan Hernandez,30,Male,East Donna,Nevada,USA,Bronze
+CUST1115,Tyler Conrad,53,Female,North Curtischester,North Dakota,USA,Platinum
+CUST1116,Anthony Phillips,18,Female,North Davidport,Rhode Island,USA,Platinum
+CUST1117,Colleen Mccarthy,21,Female,North Katherine,Washington,USA,Platinum
+CUST1118,Earl Allen,36,Male,New Jenniferburgh,Nebraska,USA,Platinum
+CUST1119,Michael Jones,40,Male,North Edwardton,Tennessee,USA,Bronze
+CUST1120,Jacob Hopkins,44,Female,lake tylerfort,Pennsylvania,USA,Platinum
+CUST1121,Joel Robinson,62,Male,Lake Danielport,Hawaii,USA,Platinum
+CUST1122,Michael Chang,50,Male,Kathrynport,North Carolina,USA,Platinum
+CUST1123,Erin Hopkins,40,Male,North Sabrina,Iowa,USA,Silver
+CUST1124,Donald Lee,26,Male,Wongberg,Illinois,USA,Bronze
+CUST1125,Keith Miller,64,Female,West Jameston,Maine,USA,Platinum
+CUST1126,James Wolfe,62,Female,Benjaminton,Arizona,USA,Gold
+CUST1127,John Mcknight,39,Male,South Nathan,Vermont,USA,Platinum
+CUST1128,Susan Mcdonald,45,Male,East Ellen,Arkansas,USA,Silver
+CUST1129,Jessica Mitchell,43,Female,Matthewbury,South Dakota,USA,Silver
+CUST1130,Jamie Reyes,29,Male,   Jonesbury ,Connecticut,USA,Platinum
+CUST1131,Joseph Richards,34,Female,Wigginsville,Alabama,USA,Bronze
+CUST1132,Miguel Reynolds,57,Female,Taylorberg,Ohio,USA,Gold
+CUST1133,Hayley Pope,62,Female,West Stephenville,Florida,USA,Bronze
+CUST1134,Morgan Bowen,54,Male,Parksfort,Washington,USA,Gold
+CUST1135,Matthew Hanna,33,Female,Gonzalezbury,Michigan,USA,Platinum
+CUST1136,Patrick Coleman,29,Male,New Jeffrey,Nebraska,USA,Silver
+CUST1137,Rick Dominguez,55,Female,North Johnbury,Ohio,USA,Platinum
+CUST1138,Sean Roth,43,Male,Lake Michael,Virginia,USA,Gold
+CUST1139,Brian Holder,32,Male,Port Travis,Utah,USA,Bronze
+CUST1140,Patty Francis,63,Female,South Brooke,Pennsylvania,USA,Gold
+CUST1141,Cristian Wright,30,Male,Port Denise,California,USA,Bronze
+CUST1142,Maria Ramirez,37,Male,West Brandon,Montana,USA,Bronze
+CUST1143,Carlos Skinner,46,Male,Dwaynemouth,Alabama,USA,Bronze
+CUST1144,Justin Cross,62,Female,North Anthonychester,Nevada,USA,Bronze
+CUST1145,Cameron Simpson,46,Male,Michaelfort,Indiana,USA,Platinum
+CUST1146,Edward Rivera,32,Female,Chungmouth,South Carolina,USA,Gold
+CUST1147,Rhonda Young,49,Female,Lake Nathanfort,Alaska,USA,Platinum
+CUST1148,Theresa Campbell,42,Female,New Brian,Wisconsin,USA,Bronze
+CUST1149,Denise Griffin,33,Male,West Markhaven,Florida,USA,Platinum
+CUST1150,Stephanie Conway,24,Male,Port Frankmouth,Mississippi,USA,Gold
+CUST1151,Michael Davies,25,Female,Lake Stevenfort,Oregon,USA,Gold
+CUST1152,Patrick Roberts,41,Female,Jaredville,Missouri,USA,Platinum
+CUST1153,Joseph Faulkner,31,Male,New Leahfurt,North Dakota,USA,Bronze
+CUST1154,Julie Hale,35,Female,Owensview,Vermont,USA,Gold
+CUST1155,Curtis Haynes,60,Female,Estradaside,Iowa,USA,Gold
+CUST1156,Maria Sanchez,46,Male,East Peterbury,North Dakota,USA,Bronze
+CUST1157,Paul Zamora,59,Male,North Larryfurt,North Dakota,USA,Platinum
+CUST1158,Sean Powell,43,Male,South Kevin,Vermont,USA,Bronze
+CUST1159,Brian Choi,46,Female,Floydton,New Jersey,USA,Gold
+CUST1160,John Lawson,41,Female,New Juliemouth,North Carolina,USA,Platinum
+CUST1161,Cynthia Morris,18,Female,Hessmouth,Arizona,USA,Silver
+CUST1162,Mariah Brown,37,Male,Palmerbury,Tennessee,USA,Silver
+CUST1163,Joseph Jones,21,Male,North Matthew,Illinois,USA,Bronze
+CUST1164,Daniel Rivas,39,Female,Dominiquefort,Georgia,USA,Silver
+CUST1165,Jason Wheeler,47,Female,Carolview,Illinois,USA,Platinum
+CUST1166,Patricia Gardner,25,Female,South Ashleyton,Michigan,USA,Silver
+CUST1167,Antonio Wade,36,Female,New Jasonmouth,Tennessee,USA,Gold
+CUST1168,Daniel Contreras,36,Female,Robertview,Florida,USA,Platinum
+CUST1169,Steve Mclaughlin,64,Male,Josephmouth,New Hampshire,USA,Bronze
+CUST1170,Christopher Garcia Dds,18,Male,New Joseph,Missouri,USA,Gold
+CUST1171,Amy Wilson,44,Female,Morrisburgh,Indiana,USA,Platinum
+CUST1172,Thomas Rhodes,41,Female,Port Richard,West Virginia,USA,Bronze
+CUST1173,Teresa Stokes,41,Female,New William,Iowa,usa,Platinum
+CUST1174,Maria Davis,26,Female,Avilahaven,Vermont,USA,Gold
+CUST1175,Michelle Rogers,56,Male,East Jessicaborough,Hawaii,USA,Platinum
+CUST1176,John Bradford,48,Male,Anabury,Vermont,USA,Silver
+CUST1177,Curtis Lam,55,Male,Butlerberg,Kentucky,USA,Platinum
+CUST1178,Michelle Myers,33,Female,West Daniel,South Carolina,USA,Bronze
+CUST1179,Nicholas Bradshaw,43,Female,Murphyfurt,Utah,USA,Silver
+CUST1180,Wesley Thompson,38,Male,East Davidmouth,Maine,USA,Bronze
+CUST1181,Erin Ward,60,Male,New Brianchester,New York,USA,Bronze
+CUST1182,Melissa Hamilton,23,Female,Hutchinsonville,Oklahoma,USA,Silver
+CUST1183,Mario Jacobs,18,Male,Port James,New York,USA,Platinum
+CUST1184,Leonard Cochran,46,Female,Port Sherryview,North Dakota,USA,Silver
+CUST1185,Brent Rivas,54,Female,North Kellyberg,New Jersey,USA,Platinum
+CUST1186,Jennifer Pruitt,53,Male,East Justin,Missouri,USA,Silver
+CUST1187,Dr. Suzanne Bullock,60,Female,Lake Blaketon,Alabama,USA,Platinum
+CUST1188,Kimberly Brooks,42,Male,Kingfort,New Mexico,USA,Silver
+CUST1189,Daniel Austin,29,Male,Lake Howardberg,Kentucky,USA,Gold
+CUST1190,Christopher Stewart,21,Male,Amandaside,New York,USA,Bronze
+CUST1191,Todd Poole,29,Female,Johnsonshire,Ohio,USA,Bronze
+CUST1192,Jacob Wood,26,Male,Lake Samanthafort,Idaho,USA,Gold
+CUST1193,David Roberts,38,Male,Port Amanda,Georgia,USA,Gold
+CUST1194,Ashley Ferguson,46,Male,Sarahmouth,Pennsylvania,USA,Gold
+CUST1195,Anthony Garcia,60,Male,Taraberg,Arizona,USA,Silver
+CUST1196,Megan Greer,18,Female,West John,Alaska,USA,Platinum
+CUST1197,Andrea Jacobs,45,Female,Christopherland,Minnesota,USA,Platinum
+CUST1198,Wanda Snyder,54,Male,Frostmouth,Vermont,USA,Bronze
+CUST1199,Carmen Price,46,Male,North Briannamouth,Tennessee,USA,Bronze
+CUST1200,Anna Perez,30,Male,South Jerry,Maine,USA,Platinum
+CUST1201,Mary Boyd,25,Female,New Logan,Michigan,USA,Bronze
+CUST1202,Christina Garcia,37,Female,Clarkeside,Kansas,USA,Platinum
+CUST1203,Sarah Brady,47,Male,Johnsonland,Iowa,USA,Platinum
+CUST1204,Tiffany Herrera,52,Male,New Dianebury,Virginia,USA,Platinum
+CUST1205,Michelle Carpenter,44,Female,Lake Danielleton,New Jersey,USA,Gold
+CUST1206,Ronald Jones,26,Female,Brownshire,Tennessee,USA,Silver
+CUST1207,Jacqueline Pacheco,28,Female,South Emily,New Jersey,USA,Bronze
+CUST1208,John Perez,54,Male,Kathrynview,Louisiana,USA,Platinum
+CUST1209,Joan Johnson,50,Female,Lake Josephport,Maine,USA,Platinum
+CUST1210,Antonio Jones,48,Male,Matthewborough,Georgia,USA,Silver
+CUST1211,Rodney Huffman,20,Female,Garzafort,Delaware,USA,Silver
+CUST1212,Blake Harrison,63,Female,Lyonsfort,Washington,USA,Platinum
+CUST1213,Stuart Johnson,42,Female,West Markport,North Dakota,USA,Platinum
+CUST1214,Eric Todd,61,Male,Danielstad,Montana,USA,Gold
+CUST1215,Steve Medina,50,Female,East Josephside,Oregon,USA,Gold
+CUST1216,Kathryn Garcia,44,Male,Morrismouth,California,USA,Platinum
+CUST1217,Kathy Copeland,42,Male,North Christinemouth,Missouri,USA,Silver
+CUST1218,Julia Jackson,46,Male,Edwardland,California,USA,Platinum
+CUST1219,Jordan Wells,47,Female,Phillipschester   ,New Jersey,USA,Gold
+CUST1220,George Davis,50,Female,    Lake lisa,Massachusetts,usa,Bronze
+CUST1221,Lisa Young,38,Male,Maybury,Georgia,USA,Platinum
+CUST1222,Alejandro Doyle,35,Male,East Crystalton,New Mexico,USA,Platinum
+CUST1223,Robert Harris,50,Male,East jeremy,Iowa,USA,Platinum
+CUST1224,Anthony Morgan,29,Male,New Anthonyfurt,Missouri,USA,Silver
+CUST1225,Elizabeth Stanley,46,Female,Bethanyton,Utah,USA,Platinum
+CUST1226,Alexis Castaneda,54,Male,Morrisbury,Alaska,USA,Gold
+CUST1227,Gregory Pham,63,Female,Pollardton,Kansas,USA,Gold
+CUST1228,Casey Flores,52,Female,Lake Michael,Utah,USA,Gold
+CUST1229,Tanner Thompson,32,Female,Port Lisashire,Maryland,USA,Bronze
+CUST1230,Timothy Sanders,29,Male,Aaronmouth,Florida,USA,Bronze
+CUST1231,Timothy Juarez,22,Female,Grahamstad,South Carolina,USA,Bronze
+CUST1232,Christy Hill,27,Female,Tammyton,New Jersey,USA,Platinum
+CUST1233,Michelle Gonzalez,59,Male,Clarkport,West Virginia,USA,Silver
+CUST1234,Nathaniel Hill,43,Female,Lake Mark,Kansas,USA,Gold
+CUST1235,Jon Ortiz,28,Female,South Angelaport,Delaware,USA,Bronze
+CUST1236,Joshua Wilson,42,Female,North Larryport,Virginia,USA,Bronze
+CUST1237,Wesley Short,41,Female,Susanstad,Montana,USA,Gold
+CUST1238,Steven Smith,40,Male,Port Krista,West Virginia,USA,Platinum
+CUST1239,Maria Hill,58,Female,Zamoraborough,Nevada,USA,Platinum
+CUST1240,William Hull,59,Female,Heathfort,Michigan,USA,Platinum
+CUST1241,Mr. William Horton,31,Male,Dawsonchester,Virginia,USA,Platinum
+CUST1242,William Jackson,58,Female,New Tina,Connecticut,USA,Silver
+CUST1243,Brian Hammond,56,Female,North Nicholas,Texas,USA,Gold
+CUST1244,Nancy Page,19,Male,West Julia,Utah,USA,Bronze
+CUST1245,Laura Soto,57,Female,Rodriguezton,Michigan,USA,Platinum
+CUST1246,Mary Russell,58,Male,South Regina,Arkansas,USA,Bronze
+CUST1247,Douglas Rhodes,32,Male,Mikehaven,New Hampshire,USA,Platinum
+CUST1248,Nicholas Webb,19,Male,Lake Timothy,Nevada,USA,Gold
+CUST1249,Lauren George,41,Female,Garciamouth,New York,USA,Gold
+CUST1250,Veronica Newman,48,Male,New Daniel,Delaware,USA,Platinum
+CUST1251,Tyler Garner,64,Male,Port Coreyfort,Alabama,USA,Silver
+CUST1252,John Mccoy,26,Male,Robinborough,South Dakota,USA,Silver
+CUST1253,Dr. Ashley Yates Md,32,Male,New Maria,Wisconsin,USA,Bronze
+CUST1254,Linda Kline,34,Male,Masseyland,Alaska,USA,Silver
+CUST1255,Damon Perez,21,Male,Jasonton,Ohio,USA,Gold
+CUST1256,Kristen Fischer,57,Male,Lake Christopher,Arkansas,USA,Platinum
+CUST1257,Christopher David,42,Male,Karenmouth,Massachusetts,USA,Silver
+CUST1258,Sarah Stewart,24,Female,East Richard,Texas,USA,Platinum
+CUST1259,Beth Allen,32,Female,South Kathrynmouth,Oklahoma,USA,Silver
+CUST1260,Russell Lamb,63,Female,North Jonathon,Arizona,USA,Platinum
+CUST1261,Carol Bishop,27,Female,Lake Saramouth,Oregon,USA,Silver
+CUST1262,Katherine Cowan,60,Female,New Ana,Montana,USA,Silver
+CUST1263,Crystal Davis,50,Male,Sallymouth,Louisiana,USA,Bronze
+CUST1264,Matthew Payne,25,Male,Grahamfurt,Wyoming,USA,Gold
+CUST1265,Tracy Kelly,38,Male,West Jamieport,Tennessee,USA,Silver
+CUST1266,Cynthia Payne,32,Female,South Gina,Kentucky,USA,Bronze
+CUST1267,Zachary Shelton,18,Male,North Nicholas,Montana,USA,Bronze
+CUST1268,Kevin Orr,53,Female,Ryanberg,Minnesota,USA,Bronze
+CUST1269,Tyrone Olson,45,Female,Emilytown,California,USA,Silver
+CUST1270,Brian Garcia,31,Female,Ramosmouth,Louisiana,USA,Gold
+CUST1271,Daisy Johnson Dds,64,Male,North Stephanie,Nebraska,USA,Platinum
+CUST1272,Adam Rowland,48,Female,Welchview,California,USA,Gold
+CUST1273,Samantha Robinson,23,Male,North Roy,Mississippi,USA,Bronze
+CUST1274,Sarah Lane,38,Male,Edwardborough,Vermont,USA,Silver
+CUST1275,Shannon Miller,22,Male,North Austinport,Kentucky,USA,Gold
+CUST1276,Arthur Warren,38,Male,Ericshire,Nevada,USA,Gold
+CUST1277,Jeffrey Gomez,22,Female,Lake Nicole,Colorado,USA,Platinum
+CUST1278,Stephen Fowler,42,Female,Port Mariastad,Rhode Island,USA,Platinum
+CUST1279,Aaron Luna,21,Female,Gilltown,Ohio,USA,Bronze
+CUST1280,Antonio Leon,48,Male,Morrisville,Hawaii,USA,Bronze
+CUST1281,Brittany Watson,59,Male,North Joshualand,Connecticut,USA,Platinum
+CUST1282,Kristi Lopez,46,Female,Spencermouth,New Jersey,USA,Gold
+CUST1283,Bryan Garcia,54,Female,Garciaborough,Wyoming,USA,Silver
+CUST1284,Hunter Sutton,54,Male,Patrickshire,Connecticut,USA,Gold
+CUST1285,Donna Guerra,46,Female,North Robert,Massachusetts,USA,Silver
+CUST1286,Tommy Roberts,22,Male,Port Tonyfort,South Dakota,USA,Silver
+CUST1287,Cynthia Roberts,22,Female,Millerfort,Vermont,USA,Gold
+CUST1288,Misty Ferguson,58,Male,North Joseside,Connecticut,USA,Gold
+CUST1289,Jennifer Figueroa,45,Male,North Brookestad,Ohio,USA,Bronze
+CUST1290,Chase Williams Md,52,Female,Sherimouth,Virginia,USA,Silver
+CUST1291,James Powell,40,Female,West Beverlymouth,Missouri,USA,Bronze
+CUST1292,Ricardo Jones,30,Male,Danielland,Minnesota,USA,Silver
+CUST1293,Gloria Taylor,56,Female,North Daniel,Louisiana,USA,Platinum
+CUST1294,Lisa Chandler,29,Male,Port Richard,Montana,USA,Platinum
+CUST1295,Crystal Waters,19,Female,North Michelleport,Kansas,USA,Bronze
+CUST1296,Jared Moran,28,Female,South David,West Virginia,USA,Bronze
+CUST1297,Jennifer Carr,47,Female,Lake Brett,Missouri,USA,Silver
+CUST1298,Tracy Stephens,64,Male,New Joshuatown,Maine,USA,Platinum
+CUST1299,Stephanie Jacobs,48,Female,West Robinmouth,Louisiana,USA,Platinum
+CUST1300,Matthew Avery,29,Male,Lake Melissashire,Oregon,USA,Silver
+CUST1301,Ryan Kane,50,Male,West Bruceburgh,Virginia,USA,Gold
+CUST1302,Edward Cole,36,Male,Lake Charlotte,Arizona,USA,Gold
+CUST1303,John Sloan,23,Female,East Johntown,Delaware,USA,Platinum
+CUST1304,Miss Alexandria Li Dvm,41,Male,Port Jenniferton,Kansas,USA,Silver
+CUST1305,Roberta Green,64,Male,West Joseph,Washington,USA,Platinum
+CUST1306,Angela Robinson,44,Male,New Nicholasstad,Tennessee,USA,Platinum
+CUST1307,Brandy Thompson,56,Female,West Patriciaview,Alabama,USA,Bronze
+CUST1308,Jennifer Zamora,60,Female,Sarahland,Iowa,USA,Gold
+CUST1309,Stacy Collins,41,Female,Randychester,California,USA,Bronze
+CUST1310,Kara Dodson,20,Male,Joelside,Vermont,USA,Silver
+CUST1311,Kevin Larson,35,Male,Port Edwardmouth,Oregon,USA,Platinum
+CUST1312,Jason Mullins,47,Female,Brianchester,Delaware,USA,Silver
+CUST1313,Elizabeth Jones,62,Male,Brownburgh,Maryland,USA,Platinum
+CUST1314,Elizabeth Johnson,53,Female,Anitaland,Washington,USA,Silver
+CUST1315,William Rodriguez,49,Male,Port Chad,Massachusetts,USA,Silver
+CUST1316,Robert House,34,Male,Lake James,Maryland,USA,Gold
+CUST1317,Tiffany Williams,64,Female,Richardsport,New Hampshire,USA,Gold
+CUST1318,Madison Wright,25,Male,Monicaview,Kansas,USA,Platinum
+CUST1319,Casey Simpson,54,Male,West Mathewside,Mississippi,USA,Platinum
+CUST1320,Jessica Gonzalez,34,Female,South Darrenland,Iowa,USA,Bronze
+CUST1321,Darren Burton,21,Female,Lake Alice,Tennessee,USA,Bronze
+CUST1322,Samuel Arias,54,Male,North Nicole,Wyoming,USA,Bronze
+CUST1323,Kristy Dunlap,64,Female,Whiteport,North Carolina,USA,Platinum
+CUST1324,Alex Mann Ii,58,Male,South Zacharychester,Oklahoma,USA,Bronze
+CUST1325,Andrew Smith,60,Male,East Matthew,Wisconsin,USA,Bronze
+CUST1326,Robert King,58,Female,Cindyton,Rhode Island,USA,Gold
+CUST1327,Reginald Willis,62,Female,Kellybury,New York,USA,Bronze
+CUST1328,Mario Harvey Jr.,46,Male,Jessicaport,Minnesota,USA,Platinum
+CUST1329,Victor Mcintosh,62,Female,Tiffanyshire,Minnesota,USA,Bronze
+CUST1330,Pamela Mcguire,54,Male,South Jasontown,Illinois,USA,Platinum
+CUST1331,Maria Phillips,38,Female,North Kathytown,Montana,USA,Bronze
+CUST1332,Dr. Lindsay Hanna,34,Female,New Paulstad,Hawaii,USA,Bronze
+CUST1333,Teresa Johnson,64,Female,Johnsonbury,Georgia,USA,Gold
+CUST1334,Mr. Christopher Sims,50,Female,Donaldsontown,Connecticut,USA,Silver
+CUST1335,Jennifer Woods,37,Male,West Brendamouth,North Carolina,USA,Platinum
+CUST1336,John Jones,58,Female,North Michaelborough,Oregon,USA,Silver
+CUST1337,Carol Lewis,40,Female,Ryanport,North Carolina,USA,Bronze
+CUST1338,Jasmine Snyder,46,Female,Hudsonfort,Connecticut,USA,Silver
+CUST1339,Mrs. Susan Buckley,52,Female,Stevensbury,Arizona,USA,Platinum
+CUST1340,Eric Davis,27,Male,Johntown,Colorado,USA,Bronze
+CUST1341,Angela Williams,56,Female,Lake Alyssaburgh,Illinois,USA,Bronze
+CUST1342,Michelle Cunningham,30,Female,Amandaborough,Connecticut,USA,Bronze
+CUST1343,Ryan Moore,38,Male,Cartershire,Virginia,USA,Bronze
+CUST1344,Evelyn Brown,39,Male,West Victoriaborough,New Mexico,USA,Gold
+CUST1345,Daniel Nelson,33,Male,North Jonathan,Oklahoma,USA,Bronze
+CUST1346,John Jordan,58,Female,Port Crystalberg,Tennessee,USA,Platinum
+CUST1347,Justin Mason Dds,39,Female,Peggystad,Connecticut,USA,Gold
+CUST1348,Sherry Cabrera,55,Male,Shannonview,Pennsylvania,USA,Silver
+CUST1349,Heather Valenzuela,31,Male,New Angiefurt,Alaska,USA,Bronze
+CUST1350,Charles Miller,26,Male,Lake Allisonborough,Iowa,USA,Silver
+CUST1351,Jeffrey Mccarthy,25,Female,North Samuel,Nebraska,USA,Bronze
+CUST1352,Michael Greene,52,Female,Port Saramouth,Wisconsin,USA,Silver
+CUST1353,Laura Green,56,Female,Westbury,Oregon,USA,Platinum
+CUST1354,Ryan Torres,38,Male,Guerreroport,Connecticut,USA,Silver
+CUST1355,Carlos Flores,20,Male,North Johnfurt,Washington,USA,Gold
+CUST1356,Steve Hunt,54,Male,North Richard,Virginia,USA,Bronze
+CUST1357,Manuel Castillo,41,Male,Nealview,Tennessee,USA,Gold
+CUST1358,Ashley Anderson,60,Female,West Johnmouth,Mississippi,USA,Gold
+CUST1359,Melanie Lam,32,Male,East Michaelton,Kansas,USA,Silver
+CUST1360,Denise Tate,34,Male,Andersonside,Arkansas,USA,Platinum
+CUST1361,Natalie Johnson,64,Male,New Jessechester,Indiana,USA,Platinum
+CUST1362,Joshua Smith Dvm,60,Male,Melvinton,Alaska,USA,Gold
+CUST1363,Elizabeth Smith,23,Male,Murphytown,Ohio,USA,Bronze
+CUST1364,Chloe Aguilar,58,Male,Lake Johnside,Arizona,USA,Bronze
+CUST1365,Brandon Mcbride,63,Female,Kellyside,Alaska,USA,Platinum
+CUST1366,Mallory Allen,40,Female,North Theresa,Alabama,USA,Platinum
+CUST1367,Melinda Johnson,51,Male,Kaufmanfurt,Ohio,USA,Bronze
+CUST1368,Miranda King,34,Female,West Mathew,New York,USA,Platinum
+CUST1369,Gregory Allen,20,Female,West Bruce,Vermont,USA,Platinum
+CUST1370,James Holloway Jr.,45,Male,Millston,Indiana,USA,Silver
+CUST1371,Michael Garner,21,Female,Port Crystal,New Hampshire,USA,Platinum
+CUST1372,Jacqueline Anthony,28,Male,Vincentside,Ohio,USA,Bronze
+CUST1373,James Orozco,37,Female,Simpsonfort,Maine,USA,Gold
+CUST1374,Emma Wilson,60,Male,Andersonburgh,Hawaii,USA,Platinum
+CUST1375,Joshua Bell,26,Male,Port Richardshire,Minnesota,USA,Platinum
+CUST1376,Michele Burke,30,Male,Chambersberg,Connecticut,USA,Bronze
+CUST1377,Charles Conley,39,Female,Nathanshire,Maine,USA,Gold
+CUST1378,Frank Stewart,44,Female,Fischerborough,Delaware,USA,Bronze
+CUST1379,Tanya Lopez,34,Female,West Jeffreyburgh,Iowa,USA,Gold
+CUST1380,Shelley Ponce,23,Male,South Cassandrachester,Rhode Island,USA,Gold
+CUST1381,Erika Padilla,50,Male,Andrewsland,Alabama,USA,Silver
+CUST1382,Martha Brown,20,Female,Novakstad,California,USA,Gold
+CUST1383,Kristine Higgins,27,Female,Jennifertown,South Carolina,USA,Silver
+CUST1384,Andrew Mason,52,Female,North Michael,Iowa,USA,Bronze
+CUST1385,Tammy Brennan,60,Male,Lake Brandontown,South Carolina,USA,Gold
+CUST1386,Melanie Mitchell,18,Female,West Laura,Maryland,USA,Bronze
+CUST1387,Timothy Gardner,28,Female,New Dawn,New Jersey,USA,Silver
+CUST1388,Timothy Valenzuela,53,Male,Stevensshire,Missouri,USA,Platinum
+CUST1389,Cynthia Lopez,50,Male,Joseland,Nebraska,USA,Platinum
+CUST1390,Daniel Bell,56,Male,Deniseberg,Arkansas,USA,Silver
+CUST1391,Heidi Tyler,40,Female,Dawnstad,Oregon,USA,Bronze
+CUST1392,Jacqueline Payne,46,Male,Gutierrezstad,Missouri,USA,Gold
+CUST1393,Michael Mcneil,46,Male,Stewartchester,Utah,USA,Bronze
+CUST1394,Alejandro Evans,43,Female,Cannonberg,Connecticut,USA,Bronze
+CUST1395,Brandon Mcguire,50,Male,Lake Morganland,Kansas,USA,Gold
+CUST1396,Alexander Byrd,25,Female,Parkerview,New York,USA,Silver
+CUST1397,Charles Norman Phd,62,Female,East Jennifer,Kansas,USA,Platinum
+CUST1398,Jennifer Johnson,54,Male,Cheyenneborough,New Hampshire,USA,Bronze
+CUST1399,John Donaldson,27,Male,New Edward,Maine,USA,Bronze
+CUST1400,Mark Rogers,57,Female,Bookertown,Oklahoma,USA,Platinum
+CUST1401,Terry Moses,51,Female,Leahmouth,Nevada,USA,Platinum
+CUST1402,Cassandra Perez,31,Male,Brandonville,Mississippi,USA,Bronze
+CUST1403,Justin Ingram,34,Male,Lake Lisaland,Louisiana,USA,Bronze
+CUST1404,David Ross,22,Female,South Angela,Arkansas,USA,Silver
+CUST1405,Eric Wolfe,18,Female,Garciaview,Louisiana,USA,Gold
+CUST1406,David Lozano,23,Female,North Michaelfurt,Wisconsin,USA,Gold
+CUST1407,Joseph Mendoza,33,Male,Ashleymouth,Maryland,USA,Gold
+CUST1408,Isabel Foster,36,Male,Port Joshuaville,New Jersey,USA,Gold
+CUST1409,Sarah Smith,55,Male,Kathleenport,Wyoming,USA,Gold
+CUST1410,Jackie Thompson,48,Female,South Edwin,New Jersey,USA,Bronze
+CUST1411,Katrina Perez,63,Male,West Rebecca,Ohio,USA,Silver
+CUST1412,Shane Brown,23,Female,East Andrea,Michigan,USA,Gold
+CUST1413,Megan Ryan,59,Female,Andrewsfurt,Idaho,USA,Bronze
+CUST1414,Melissa Valentine,35,Female,East Patriciafort,Missouri,USA,Gold
+CUST1415,Tyler Cook,26,Female,Kramerview,Alaska,USA,Silver
+CUST1416,Jennifer Myers,46,Male,Marthaborough,Wisconsin,USA,Platinum
+CUST1417,Karen King,64,Female,Kimburgh,North Carolina,USA,Bronze
+CUST1418,Luke Parks,60,Female,West Mario,New Hampshire,USA,Silver
+CUST1419,Monica Miller,33,Male,Lake David,Mississippi,USA,Gold
+CUST1420,Dr. Tamara White Md,60,Male,New Benjamin,North Carolina,USA,Bronze
+CUST1421,Holly Robinson,45,Female,East Amy,Washington,USA,Platinum
+CUST1422,Brittany Edwards Dds,42,Female,Aliciahaven,Kansas,USA,Platinum
+CUST1423,Rebecca Baker,35,Male,New Katherine,Kansas,USA,Silver
+CUST1424,Edwin Barnes,53,Male,Lake Alexandra,North Carolina,USA,Bronze
+CUST1425,Bryce Hawkins,40,Male,Lake Monique,Utah,USA,Bronze
+CUST1426,Jeanette Nichols,28,Male,Aguilarland,North Carolina,USA,Platinum
+CUST1427,Jose Stewart,18,Female,South Robert,Maine,USA,Gold
+CUST1428,Samuel Mullins,27,Female,Hartmouth,Louisiana,USA,Bronze
+CUST1429,Sean Vang,43,Male,Davidchester,Idaho,USA,Platinum
+CUST1430,Kimberly Roberts,36,Female,Josephchester,New Jersey,USA,Gold
+CUST1431,John Smith,27,Male,South Andrewport,California,USA,Platinum
+CUST1432,Summer Weiss,37,Male,Phyllisport,New Jersey,USA,Bronze
+CUST1433,Thomas Moore,51,Female,Williamsberg,New York,USA,Silver
+CUST1434,Monique Castro,48,Female,New Sarah,Indiana,USA,Gold
+CUST1435,Lindsay Beasley,37,Female,Wesleyhaven,Idaho,USA,Silver
+CUST1436,Sharon Simpson,61,Male,South Michellebury,South Dakota,USA,Gold
+CUST1437,Melinda Rivera,47,Female,East Davidmouth,New Hampshire,USA,Platinum
+CUST1438,Monica Flynn,59,Female,Amberburgh,Tennessee,USA,Platinum
+CUST1439,John Compton,53,Male,North Daniel,Michigan,USA,Silver
+CUST1440,Tammy Trevino,60,Male,Justinberg,North Dakota,USA,Silver
+CUST1441,Dalton Walters,31,Male,Jonesstad,Wisconsin,USA,Silver
+CUST1442,Kelli Smith,42,Female,North Maryfort,Oregon,USA,Bronze
+CUST1443,Adam Castro,51,Male,New Donnabury,Texas,USA,Silver
+CUST1444,Cheryl Carr,19,Male,Jessicaland,Wyoming,USA,Gold
+CUST1445,Gene Lee,41,Female,Mcfarlandmouth,Virginia,USA,Platinum
+CUST1446,Shannon Turner,35,Male,West Jorge,Oklahoma,USA,Silver
+CUST1447,Monica Wright,45,Male,Paulside,North Carolina,USA,Gold
+CUST1448,Eric Holmes,64,Female,Smithville,Wyoming,USA,Bronze
+CUST1449,William Cortez,29,Male,Port Hannahport,Ohio,USA,Bronze
+CUST1450,Shane Mills,59,Male,Lake Meganstad,Nebraska,USA,Bronze
+CUST1451,Ashley Roberts,46,Male,Josephmouth,New Mexico,USA,Gold
+CUST1452,Jeffery Wolf,60,Female,New Laura,Mississippi,USA,Bronze
+CUST1453,April Phillips,62,Female,Lake Carolyn,Hawaii,USA,Platinum
+CUST1454,John Berg,60,Male,Johnsonville,Oklahoma,USA,Gold
+CUST1455,Tyler Weber,54,Male,East Yvette,Illinois,USA,Gold
+CUST1456,Julie Powell,59,Female,South Barbara,Arkansas,USA,Gold
+CUST1457,Christina Robertson,59,Male,Hubbardborough,Kentucky,USA,Platinum
+CUST1458,Kelly Garrett,62,Female,Port Taylorberg,Pennsylvania,USA,Silver
+CUST1459,John Perez,29,Female,Brandontown,South Carolina,USA,Gold
+CUST1460,Justin Johnson,35,Male,Hughesview,Iowa,USA,Gold
+CUST1461,Paul Cox,60,Female,East Julie,Kansas,USA,Silver
+CUST1462,Beth Martin,34,Female,Burkefurt,West Virginia,USA,Silver
+CUST1463,Samantha Lee,36,Female,Port Anthony,Connecticut,USA,Bronze
+CUST1464,David Pierce,45,Female,Grayland,Washington,USA,Platinum
+CUST1465,Ronald Ross,28,Female,Hartmanside,North Carolina,USA,Silver
+CUST1466,Cynthia Parrish,18,Male,Espinozaberg,Minnesota,USA,Silver
+CUST1467,Michael Foley,63,Female,Oneillfurt,Vermont,USA,Gold
+CUST1468,Gregory Curtis,45,Male,Bergermouth,Vermont,USA,Bronze
+CUST1469,James Foster,19,Male,East Audrey,Utah,USA,Gold
+CUST1470,Manuel Fisher,21,Female,Kanebury,New Hampshire,USA,Gold
+CUST1471,Debra Mccullough,42,Male,Mcdanielfurt,Montana,USA,Platinum
+CUST1472,Philip Mendoza,42,Male,Tylermouth,Massachusetts,USA,Silver
+CUST1473,Laura Mathews,53,Male,Chambersfurt,Wisconsin,USA,Bronze
+CUST1474,Joshua Howard,32,Female,East Christopherhaven,South Dakota,USA,Platinum
+CUST1475,Barbara Berry,18,Female,Lake Michael,Vermont,USA,Platinum
+CUST1476,Elizabeth Foster,33,Female,Anthonymouth,Oklahoma,USA,Gold
+CUST1477,Andrea Harris,41,Female,West Kelseyberg,Kansas,USA,Platinum
+CUST1478,Earl Smith Dds,59,Male,West Sarah,South Dakota,USA,Gold
+CUST1479,Dylan Gutierrez,40,Male,New Jamesview,West Virginia,USA,Bronze
+CUST1480,Jordan Medina,33,Male,Robinchester,Florida,USA,Bronze
+CUST1481,Bryan Tran,21,Male,Kelseybury,Georgia,USA,Gold
+CUST1482,Sheri Joyce,26,Male,West Tylerfort,Kentucky,USA,Platinum
+CUST1483,Sarah Smith,48,Male,East Rodney,Nevada,USA,Gold
+CUST1484,Jessica Castro,32,Male,West Markton,Massachusetts,USA,Bronze
+CUST1485,Sara Ingram,46,Female,East Dillonview,Virginia,USA,Bronze
+CUST1486,Eric Lee,22,Female,Lake April,Vermont,USA,Bronze
+CUST1487,Amanda Medina,36,Female,East Patriciastad,Utah,USA,Platinum
+CUST1488,Zachary Andrade,23,Female,South Davidport,California,USA,Platinum
+CUST1489,Melinda Thomas,42,Female,Lake Elizabethside,Indiana,USA,Silver
+CUST1490,Scott Harris,23,Male,North Nataliemouth,Maryland,USA,Platinum
+CUST1491,Kaitlin Brown,52,Female,Kellyberg,South Dakota,USA,Gold
+CUST1492,Darrell Miller,59,Female,Port Carol,Florida,USA,Platinum
+CUST1493,Amanda Powell,28,Male,South William,Alabama,USA,Silver
+CUST1494,Justin Lopez,21,Male,Port Cheryl,Texas,USA,Gold
+CUST1495,James Berger,23,Female,Bryanmouth,Delaware,USA,Bronze
+CUST1496,Christopher Ford,56,Male,North Seanfurt,Ohio,USA,Bronze
+CUST1497,Sarah Marsh,47,Female,Port William,New York,USA,Gold
+CUST1498,Traci Gonzalez,35,Male,Snyderfurt,New Mexico,USA,Silver
+CUST1499,Philip Pennington,27,Female,East Valerieview,Oregon,USA,Platinum
